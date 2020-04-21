@@ -1,6 +1,7 @@
-# TS-Cal - An application to calibrate touchscreens for the TX-Pi
+Moved to https://github.com/ftCommunity/tx-pi-apps/tree/master/packages/tscal
 
-Simple application which is used to calibrate the TX-Pi touchscreen.
+This repository will be removed once the stable tx-pi-setup.sh does not rely anymore on this repository. See note below.
+
 
 ## Note:
 The master branch must be stable since it used by the TX-Pi setup
